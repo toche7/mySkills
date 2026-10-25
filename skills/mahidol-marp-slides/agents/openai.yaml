@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mahidol Marp Slides"
+  short_description: "Thai academic slides with visuals and PDF checks"
+  default_prompt: "Use $mahidol-marp-slides to create or improve these slides while preserving the requested content and design."
