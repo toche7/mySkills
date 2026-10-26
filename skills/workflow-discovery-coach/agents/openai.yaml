@@ -1,0 +1,14 @@
+interface:
+  display_name: Workflow Discovery Coach
+  short_description: โค้ชผ่านบทสนทนา จาก As-Is สู่ To-Be แบบ Swimlane
+  default_prompt: ใช้ $workflow-discovery-coach ช่วยวิเคราะห์กระบวนการทำงานของฉันผ่านบทสนทนาและสร้าง
+    As-Is กับ To-Be แบบ Swimlane
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

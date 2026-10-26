@@ -9,6 +9,7 @@
 ## สกิลที่มี
 
 - [Mahidol Marp Slides](skills/mahidol-marp-slides/SKILL.md): สไลด์ไทย/อังกฤษ ธีมมหิดล ภาพประกอบ และ PDF พร้อมตรวจการเรนเดอร์
+- [Workflow Discovery Coach](skills/workflow-discovery-coach/SKILL.md): โค้ชผู้เรียนวิเคราะห์งานผ่านบทสนทนา สร้าง As-Is/To-Be Swimlane และเลือกแนวทางปรับปรุง โดยไม่ต้องกรอกใบงาน
 
 ## ติดตั้ง
 
@@ -19,6 +20,8 @@
 - สำหรับโปรเจกต์ของ Agent ที่รองรับ: `.agents/skills/mahidol-marp-slides/`
 
 จากนั้นระบุชื่อ `mahidol-marp-slides` ในคำขอสร้างสไลด์ หาก Agent ยังไม่พบสกิล ให้เปิดแอปใหม่
+
+สำหรับ Workflow Discovery Coach ให้คัดลอก `skills/workflow-discovery-coach/` ไปยังตำแหน่งสกิลเดียวกัน แล้วเรียก `workflow-discovery-coach` พร้อมกรณีศึกษาหรืองานจริงที่ต้องการวิเคราะห์
 
 สกิลไม่ติดตั้ง Marp CLI เบราว์เซอร์ ฟอนต์ หรือบริการสร้างภาพให้อัตโนมัติ ดู [ข้อกำหนดและคำสั่งใช้งาน](skills/mahidol-marp-slides/references/runtime.md)
 
