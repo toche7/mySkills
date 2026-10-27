@@ -1,0 +1,14 @@
+interface:
+  display_name: Milo Story Creator
+  short_description: Create short Thai stories and consistent Milo illustrations
+  default_prompt: Use $milo-story-creator to write a short Thai story and create a
+    matching image of Milo trying something new.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
