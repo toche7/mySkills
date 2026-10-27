@@ -1,0 +1,13 @@
+interface:
+  display_name: Milo Comic Creator
+  short_description: Create 4-panel comic strips and sequential visual stories featuring Milo
+  default_prompt: Use $milo-comic-creator to write a 4-panel comic script and generate sequential comic illustrations of Milo trying something new.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

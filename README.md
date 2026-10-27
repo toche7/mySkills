@@ -8,6 +8,7 @@
 
 ## สกิลที่มี
 
+- [Milo Comic Creator](skills/milo-comic-creator/SKILL.md): สร้างคอมิกไมโล พร้อมคู่มือวางจังหวะเรื่อง ตัวอย่างคอมิก และคำบรรยายสำหรับโซเชียล
 - [Milo Story Creator](skills/milo-story-creator/SKILL.md): สร้างเรื่องสั้นภาษาไทยและภาพประกอบสไตล์อเมริกันคอมิก โดยมีไมโล หุ่นยนต์สีน้ำเงินและขาวเป็นตัวละครหลัก
 - [Mahidol Marp Slides](skills/mahidol-marp-slides/SKILL.md): สไลด์ไทย/อังกฤษ ธีมมหิดล ภาพประกอบ และ PDF พร้อมตรวจการเรนเดอร์
 - [Workflow Discovery Coach](skills/workflow-discovery-coach/SKILL.md): โค้ชผู้เรียนวิเคราะห์งานผ่านบทสนทนา สร้าง As-Is/To-Be Swimlane และเลือกแนวทางปรับปรุง โดยไม่ต้องกรอกใบงาน
