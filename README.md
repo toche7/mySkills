@@ -8,6 +8,8 @@
 
 ## สกิลที่มี
 
+- [Strategic Alignment Reviewer](skills/strategic-alignment-reviewer/SKILL.md): วิเคราะห์ความสอดคล้องของข้อเสนอโครงการกับแผนยุทธศาสตร์ พร้อมหลักฐาน ช่องว่าง และคำถามเพิ่มเติม
+
 - [Milo Comic Creator](skills/milo-comic-creator/SKILL.md): สร้างคอมิกไมโล พร้อมคู่มือวางจังหวะเรื่อง ตัวอย่างคอมิก และคำบรรยายสำหรับโซเชียล
 - [Milo Story Creator](skills/milo-story-creator/SKILL.md): สร้างเรื่องสั้นภาษาไทยและภาพประกอบสไตล์อเมริกันคอมิก โดยมีไมโล หุ่นยนต์สีน้ำเงินและขาวเป็นตัวละครหลัก
 - [Mahidol Marp Slides](skills/mahidol-marp-slides/SKILL.md): สไลด์ไทย/อังกฤษ ธีมมหิดล ภาพประกอบ และ PDF พร้อมตรวจการเรนเดอร์
@@ -26,6 +28,8 @@
 สำหรับ Workflow Discovery Coach ให้คัดลอก `skills/workflow-discovery-coach/` ไปยังตำแหน่งสกิลเดียวกัน แล้วเรียก `workflow-discovery-coach` พร้อมกรณีศึกษาหรืองานจริงที่ต้องการวิเคราะห์
 
 สกิลไม่ติดตั้ง Marp CLI เบราว์เซอร์ ฟอนต์ หรือบริการสร้างภาพให้อัตโนมัติ ดู [ข้อกำหนดและคำสั่งใช้งาน](skills/mahidol-marp-slides/references/runtime.md)
+
+สำหรับ Strategic Alignment Reviewer ให้คัดลอกทั้งโฟลเดอร์ `skills/strategic-alignment-reviewer/` พร้อมไฟล์ประกอบไปยังตำแหน่งสกิลเดียวกัน แล้วเรียก `strategic-alignment-reviewer` พร้อมข้อเสนอโครงการและแผนยุทธศาสตร์ที่ต้องการใช้ตรวจ
 
 ## เพิ่มสกิลอื่น
 

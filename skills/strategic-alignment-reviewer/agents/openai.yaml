@@ -1,0 +1,14 @@
+interface:
+  display_name: Strategic Alignment Reviewer
+  short_description: Review project alignment using supplied strategic plans
+  default_prompt: Use $strategic-alignment-reviewer to review this project against
+    the supplied strategic plan.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
